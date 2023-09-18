@@ -12,3 +12,10 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 # ethsafari-hackathon
+
+The project contains frontend in next js and backend to be done in solidity 
+hardhat is the framework
+.env for private keys 
+we will use quicknode rpc and sepolio or mumbai testnets for this project
+
+
