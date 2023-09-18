@@ -61,7 +61,7 @@ export default function Home() {
     return (
       <div className="container">
           <header>
-              <h1>Web3 Solidity Project</h1>
+              <h1>Agricultural Price Stability</h1>
               {account && <p>Connected Account: {account}</p>}
               <button className="button" onClick={handleAgriculturalContractActivity}>
                   Agricultural Contract Activity
